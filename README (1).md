@@ -8,7 +8,7 @@ We intends to put our programming skills to the test by developing a simplified,
 
 
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+Please provide the YouTube link to your [Video Demo](https://youtu.be/9_Dp0jiTxOk)
 
 
 ## Compilation Instructions
