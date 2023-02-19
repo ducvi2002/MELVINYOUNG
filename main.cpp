@@ -2,7 +2,7 @@
 // Course: TCP1101 PROGRAMMING FUNDAMENTALS
 // Year: Trimester 1, 2022/23 (T2215)
 // Lab: T10L
-// Names: MELVIN | SUREN | ROHIT
+// Names: MELVIN | SURENTHIRAN | ROHIT
 // IDs: 1221303453| 1211104053 | 1211103400
 // Emails: 1221303453@student.mmu.edu.my | 1211104053@student.mmu.edu.my | 1211103400@student.mmu.edu.my
 // Phones: 018-3702831 | 011-11940701 | 011-33791152
