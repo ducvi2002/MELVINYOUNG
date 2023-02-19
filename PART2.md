@@ -28,7 +28,7 @@ List all the features not yet done. Remove this section if there is no incomplet
 
 1. Move the zombie
 2. Alien attack zombie
-3. Add attributes for rock,pod,health and arrow objects. 
+3. Add attributes for pod and arrow objects. 
 4. Save/Load
 5. Alien hits Zombie	
 6. Alien kills Zombie and Win
