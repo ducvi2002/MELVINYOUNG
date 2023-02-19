@@ -15,11 +15,17 @@ Please provide the YouTube link to your [Video Demo](https://youtube.com).
 
 Provide instructions on how to compile your program, especially when it is non-trivial.
 
-For example:
+1. Open the terminal. 
 
-```
-g++ main.cpp folder1\code.cpp folder2\code.cpp ......
-```
+2. Make sure that the file has been download 
+
+3. Make sure that the file is in the download.
+
+4. Run the program
+
+5. g++ C:\Users\User\Downloads\main.cpp
+
+6. .\a
 
 ## User Manual
 
