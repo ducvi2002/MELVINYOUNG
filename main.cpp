@@ -423,7 +423,7 @@ public:
         system("pause");
     }
 
-    void bumpedhealth() //mel = > health
+    void bumpedhealth() 
     {
         cout << "Alien finds a health pack." << endl;
         cout << "Alien's life is increased by 20." << endl;
