@@ -1,6 +1,7 @@
-# Alien vs. Zombie (MEL)
+# Alien vs. Zombie
 
 Thank you for playing our game!
+
 Recently, we discovered a mobile game named Alien Path which currently available in Android and iOS. In that game, the player navigates an alien on a path to destroy robots. It combines several elements of role- playing game, puzzle, path-planning, and strategy to provide a unique gaming experience.
 
 Alien vs Zombie is a turn-based combat game in which the player controls Alien to defeat a group of Zombies. Prior to the game, the player can customize settings including game board dimensions and number of zombies. The player can also save a game into a file and load a game from a file.
@@ -12,9 +13,17 @@ For game board with 10 or more rows or columns, ensure that the row and column n
 We intends to put our programming skills to the test by developing a simplified, text-based version of this game, with several modifications of our own. We name this modified game as Alien vs. Zombie, due to our peculiar soft spot for aliens and zombies.
 
 
-//Please provide the YouTube link to your [Video Demo](https://www.youtube.com/watch?v=VjISOTPyCsA).
+
+
+
+Please provide the YouTube link to your [Video Demo](https://youtu.be/9_Dp0jiTxOk).
+
+
+
+
 
 ## Compilation Instructions
+
 
 Provide instructions on how to compile your program, especially when it is non-trivial.
 
@@ -30,7 +39,10 @@ Provide instructions on how to compile your program, especially when it is non-t
 
 6. .\a
 
-## User Manual (MEL)
+
+
+
+## User Manual
 
 ATTRIBUTES
 __________
@@ -143,20 +155,20 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________
 
 
-//Please DO NOT change the Progress Log below. Leave it as it is.
-
 ## Progress Log
 
 - [Part 1](PART1.md)
 - [Part 2](PART2.md)
 
+
+
 ## Contributors
+
 
 Please replace the following with your group members' names. 
 
 - SUREN 
-- MELVIN
 - ROHIT
-
+- MELVIN
 
 

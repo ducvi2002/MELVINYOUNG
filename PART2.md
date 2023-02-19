@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+Please provide the YouTube link to your [Video Demo](https://youtu.be/9_Dp0jiTxOk).
 
 ## Minimum Requirements
 
@@ -27,17 +27,15 @@ Quit Game
 List all the features not yet done. Remove this section if there is no incomplete requirements.
 
 1. Move the zombie
-2. Class the zombie for => multiple zombie
-3. Alien attack zombie
-4. Add attributes for rock,pod,health and arrow objects. 
-5. Save/Load => Rohit doing...
-6. Alien hits Zombie	
-7. Alien kills Zombie and Win
-8. Play Again?	
-9. Zombie's Attack
-10. Combo Attack
-11. save game
-12. load/ restart game
+2. Alien attack zombie
+3. Add attributes for rock,pod,health and arrow objects. 
+4. Save/Load
+5. Alien hits Zombie	
+6. Alien kills Zombie and Win
+7. Zombie's Attack
+8. Combo Attack
+9. save game
+10. load/ restart game
 
 
 ## Additional Features
@@ -50,7 +48,7 @@ List all the features not yet done. Remove this section if there is no incomplet
 
 List down the contribution of each group members.
 
-For example:
+
 
 ### SUREN
 
@@ -59,6 +57,9 @@ For example:
 3.  Readme documentation
 4.  Part2.md documentation
 5.  Customise Game Setting 
+6. Game Board (part1)
+7. Game Setting Customisation (part1)
+8. Default setting (part1)
 
 ### MELVIN
 
